@@ -1,2 +1,2 @@
 second commit
-blessed,hope
+blessed.
