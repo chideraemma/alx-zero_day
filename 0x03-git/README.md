@@ -1,2 +1,2 @@
-second commit
-blessed.
+my second readme updated
+
